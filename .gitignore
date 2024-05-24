@@ -1,0 +1,5 @@
+id_rsa*
+.terraform*
+*.out
+*.tfvars
+*.tfstate*
